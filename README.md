@@ -3,23 +3,65 @@
 </h1>
 
 # 남궁현
-14살 때부터 C언어를 시작하였고 이후 JAVA, C#, JS를 공부했습니다. "C언어도 언어다"라는 마음가짐으로 빠른코드 보다도 읽기 쉬운 코드를 추구 하고 있는 프론트엔드 개발자 입니다. 
-[github](https://github.com/KoreanThinker)
+14살 때부터 C언어를 시작하였고 이후 JAVA, C#, JS를 공부했습니다. "C언어도 언어다"라는 마음가짐으로 빠른코드 보다도 읽기 쉬운 코드를 추구 하고 있는 프론트엔드 개발자 입니다.
+
+#### 좋아하는 스택
+- react-native (functoinal component & hooks)
+- typescript
+- apollo
+- graphql
+- firebase
+#### 사용해봤던 스택
+- react
+- expo
+- redux
+- unity 3d
+
 
 # 목차
 #### 서비스
-- [띠용](#-띠용) : 모바일 인디게임
-- [스크랩](#-스크랩) : 학교 SNS 애플리케이션
-- [3가지번역비교하다](#-3가지번역비교하다) : 번역기 묶음 애플리케이션
+- [띠용](#띠용) : 모바일 인디게임
+- [스크랩](#스크랩) : 학교 SNS 애플리케이션
+- [3가지번역비교하다](#3가지번역비교하다) : 번역기 묶음 애플리케이션
 #### 데모
-- [AR데모](#-AR데모) : AR 이미지트래킹
-- [RN파이어베이스풀스택](#-RN파이어베이스풀스택) : 기본적인 서버통신 앱
+- [AR데모](#AR데모) : AR 이미지트래킹
+- [RN파이어베이스풀스택](#RN파이어베이스풀스택) : 기본적인 서버통신 앱
 
 # 띠용 
 <img src="https://lh3.googleusercontent.com/PBcDKZTqgz86VjT6FRzN_gBc_VIYDDDlVkTgxlc_tcUuIoT2MY-GxG2tDpy3n-VfZMGk=s180-rw" alt="아이콘" width="100" />
 
 
-- [플레이스토어](https://play.google.com/store/apps/details?id=com.Korean.Thinker)
+#### 앱 설명
+선을 그리고 공을 튕겨서 모든 별을 먹어야하는 인디게임 입니다.
+#### 스크린샷
+<div dir='ltr'>
+    <img src="./Gifs/ddiyong1.gif" alt="아이콘" width="160" />
+    <img src="./Gifs/ddiyong2.gif" alt="아이콘" width="160" />
+</div>
+#### 링크
+- [플레이스토어](https://play.google.com/store/apps/details?id=com.Korean.Thinker) : 500다운
+- 소스코드 없음
+- [프로젝트 일지]()
+
+#### 개발 기간
+2018년 12월 ~ 2019년 3월
+#### 내 역할
+- 기획
+- UI/UX 디자인
+- 개발
+- 퍼블리싱
+#### 스택
+- unity 3d
+- adobe Ps, Ai, Pr
+#### 개발 설명
+첫 마켓에 업로드된 앱입니다. UI에 상당히 신경을 썼고 맵도 80개 까지 만들었고 효과음도 들어가서 나름 수준급(?)이라고 생각합니다. 
+#### 후기
+- [프로젝트 일지]()
+#### 개발하면서 들었던 노래
+- 엠씨더맥스 7, 9집
+- 퇴근길 - 엠씨더맥스 (새벽까지 달리다가 집들어가면서 들었던 노래)
+- 노래만 불렀지, 추억만들기 - EBS 공감 김장훈편 LIVE
+
 
 
 # 스크랩
@@ -44,7 +86,7 @@
 - expo
 - graphql
 - apollo
-- aws
+- adobe Ps, Ai, Xd
 #### 개발 설명
 첫번째 react-native 프로젝트이며 유튜브에서 좋다는 스택들 위주로 사용했습니다. 상당히 많은 기능들이 있으며 50페이지가 넘어가는 큰 프로젝트입니다.
 #### 후기
@@ -64,8 +106,7 @@
 #### 앱 설명
 구글, 네이버, 카카오 번역기를 비교하면서 사용할 수 있는 앱입니다.
 #### 스크린샷
-<img src="https://lh3.googleusercontent.com/OtIFO-KKim96pYSU6JOrtObXDO76KPb3eVnu_rdaDpi9LvJf0guevIh6Em439tuHKg=w1920-h888-rw" alt="아이콘" width="300" />
-<img src="https://lh3.googleusercontent.com/X0CVgGB5x61EhEb0nB_0TNlhuftLJ-1tjvNT04_VRQYdnMRFVjEhfPcpRRKIFlp9JFo=w1920-h888-rw" alt="아이콘" width="300" />
+<img src="https://lh3.googleusercontent.com/OtIFO-KKim96pYSU6JOrtObXDO76KPb3eVnu_rdaDpi9LvJf0guevIh6Em439tuHKg=w1920-h888-rw" alt="아이콘" width="200" />
 
 #### 링크
 - [플레이스토어](https://play.google.com/store/apps/details?id=com.koreanthinker.translators) : 200다운
@@ -82,9 +123,7 @@
 - react-native (100% functional componen)
 - fetch (rest api로 통신)
 #### 개발 설명
-expo 없이 react-native사용하기, Material ui 사용해보기를 중점적으로 두고 2주일 정도 걸린 사이드 프로젝트 입니다.
-#### 후기
-
+expo 없이 react-native사용하기,  Material ui 사용하기를 중점적으로 두고 2주일 정도 걸린 사이드 프로젝트 입니다.
 #### 개발하면서 들었던 노래
 - Beautiful World - Westlife
 - 유튜브 엠씨더맥스 리스트
