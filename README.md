@@ -35,9 +35,10 @@
 선을 그리고 공을 튕겨서 모든 별을 먹어야하는 인디게임 입니다.
 #### 스크린샷
 <div dir='ltr'>
-    <img src="./Gifs/ddiyong1.gif" alt="아이콘" width="160" />
-    <img src="./Gifs/ddiyong2.gif" alt="아이콘" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ddiyong1.gif" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ddiyong2.gif" alt="스크린샷" width="160" />
 </div>
+
 #### 링크
 - [플레이스토어](https://play.google.com/store/apps/details?id=com.Korean.Thinker) : 500다운
 - 소스코드 없음
