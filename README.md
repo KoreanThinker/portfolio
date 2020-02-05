@@ -54,22 +54,17 @@
 #### 스택
 - unity 3d
 - adobe Ps, Ai, Pr
-#### 개발 설명
-첫 마켓에 업로드된 앱입니다. UI에 상당히 신경을 썼고 맵도 80개 까지 만들었고 효과음도 들어가서 나름 수준급(?)이라고 생각합니다. 
+#### 프로젝트 설명
+기획, 디자인, 프로그래밍의 역할을 공부하기 위해 시작한 프로젝트입니다.
 #### 후기
 - [프로젝트 일지]()
-#### 개발하면서 들었던 노래
-- 엠씨더맥스 7, 9집
-- 퇴근길 - 엠씨더맥스 (새벽까지 달리다가 집들어가면서 들었던 노래)
-- 노래만 불렀지, 추억만들기 - EBS 공감 김장훈편 LIVE
-
 
 
 # 스크랩
 <img src="https://lh3.googleusercontent.com/K-VjHwsYLjpaiTASQDiot2xNHkkqpsBcmXWCodJA1lmUFHlLpWvcifjc0g6gVOm9UGw=s180-rw" alt="아이콘" width="100" />
 
 #### 앱 설명
-보정고등학교 전용 SNS입니다. 급식정보, 게시판, 시험정보, 수행정보, 공지등의 기능과 관리자 계정이라면 앱 내부에서 관리자 전용 페이지로 전환 하여 관리 또한 가능합니다. 다운해서 둘러보시는 것을 추천드립니다!!
+보정고등학교 전용 SNS입니다. 급식정보, 게시판, 시험정보, 수행정보, 공지등의 기능과 관리자 계정이라면 앱 내부에서 관리자 전용 페이지로 전환 하여 관리 또한 가능합니다.
 #### 링크
 - [플레이스토어](https://play.google.com/store/apps/details?id=com.schoolapp.schoolappuser) : 100다운
 - [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%ED%81%AC%EB%9E%A9-%EB%B3%B4%EC%A0%95/id1478149413) : 50다운
@@ -88,18 +83,11 @@
 - graphql
 - apollo
 - adobe Ps, Ai, Xd
-#### 개발 설명
-첫번째 react-native 프로젝트이며 유튜브에서 좋다는 스택들 위주로 사용했습니다. 상당히 많은 기능들이 있으며 50페이지가 넘어가는 큰 프로젝트입니다.
+#### 프로젝트 설명
+첫번째 react-native 프로젝트이며 유튜브에서 좋다는 스택들 위주로 사용했습니다. 상당히 많은 기능들이 있으며 50페이지가 넘어가는 큰 프로젝트였습니다.
 #### 후기
 - [프로젝트 일지]()
-#### 개발하면서 들었던 노래
-- Next To Me, Natural, Walking The Wire, Everglow, Warrior - Imagine Dragons
-- 그대안의 블루 - 김현철, 이소라
-- 위대한 쇼맨 OST
-- 이 또한 지나가리라, 비상, 여러분, 겨울편지, 이름 - 임재범
-- 유재하 1집
-- yesterday, let it be, a day in my life - Beatles 
-- 그댄 행복에 살텐데, 첫눈처럼 너에게 가겠다 - 김범수
+
 
 # 3가지번역비교하다
 <img src="https://lh3.googleusercontent.com/pctpfs3Tc7tj09Cs2aQkXTLawBmy97kI1R1dOuxvRzua-S6slk3kaxgN-HsFDv3nFSk=s180-rw" alt="아이콘" width="100" />
@@ -123,12 +111,37 @@
 #### 스택
 - react-native (100% functional componen)
 - fetch (rest api로 통신)
-#### 개발 설명
-expo 없이 react-native사용하기,  Material ui 사용하기를 중점적으로 두고 2주일 정도 걸린 사이드 프로젝트 입니다.
-#### 개발하면서 들었던 노래
-- Beautiful World - Westlife
-- 유튜브 엠씨더맥스 리스트
+#### 프로젝트 설명
+expo 없이 react-native사용하기, material ui 사용하기를 중점적으로 두고 개발한  사이드 프로젝트 입니다.
 
 ## AR데모
+<img src="https://lh3.googleusercontent.com/ZciSNhzwp-sgFlTMRPiza-fx81lryLBkL98aHoYE10VlSISNYRQrn33qVna1PHno7sY=s180-rw" alt="아이콘" width="100" />
+
+#### 앱 설명
+2D이미지를 스캔하고 3D이미지를 출력하는 간단한 AR 앱입니다.
+#### 스크린샷
+<div dir='ltr'>
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ar1.gif" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ar2.gif" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ar3.gif" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/GIFs/ar4.gif" alt="스크린샷" width="160" />
+</div>
+
+#### 링크
+- [플레이스토어](https://play.google.com/store/apps/details?id=com.namgunghyun.ImageTracking) : [링크](https://github.com/KoreanThinker/portfolio/blob/master/ARImageClip)에 있는 이미지로 테스트 가능합니다
+- [소스코드](https://github.com/KoreanThinker/ARImageTracking)
+
+#### 개발 기간
+2019년 12월 ~ 2019년 12월
+#### 내 역할
+- 프로그래밍
+#### 스택
+- UNITY 3D
+- AR foundation
+#### 프로젝트 설명
+전에 외주를 맡으면서 공부했던 기술을 정리한 프로젝트입니다.
+#### 후기
+간단하게 올린 코드였지만 무려 깃헙 스타를 2개나 받으면서 **프로그래머**로서의 굉장한 자신감을 얻게 해준 프로젝트였습니다. 
+
 
 ## RN파이어베이스풀스택
