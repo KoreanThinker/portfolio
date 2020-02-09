@@ -65,6 +65,13 @@
 
 #### 앱 설명
 보정고등학교 전용 SNS입니다. 급식정보, 게시판, 시험정보, 수행정보, 공지등의 기능과 관리자 계정이라면 앱 내부에서 관리자 전용 페이지로 전환 하여 관리 또한 가능합니다.
+#### 스크린샷
+<div dir='ltr'>
+    <img src="https://lh3.googleusercontent.com/qglkK6pihOcznYT4qD9_xpWLsqnzSngj5hyRDW5Ru2J0OhODE_c0dRS6DNEwBBhRoFk=w1569-h869-rw" alt="아이콘" width="200" />
+    <img src="https://lh3.googleusercontent.com/L9tAPMQoHFQ8jIC5uuP1tiH9gVuIWuTv9lMbY9ZtEcaOzrdLvcdQZKV9gHXHjbvsnQ=w1569-h869-rw" alt="아이콘" width="200" />
+    <img src="https://lh3.googleusercontent.com/wpo-9TrNacNoZTMEJQR1HiVV8HU_80ILYRNM_Ld4wOy2GqCJ69o9TvlNzQRkuqIv4A=w720-h310-rw" alt="아이콘" width="200" />
+</div>
+
 #### 링크
 - [플레이스토어](https://play.google.com/store/apps/details?id=com.schoolapp.schoolappuser) : 100다운
 - [앱스토어](https://apps.apple.com/kr/app/%EC%8A%A4%ED%81%AC%EB%9E%A9-%EB%B3%B4%EC%A0%95/id1478149413) : 50다운
@@ -95,7 +102,12 @@
 #### 앱 설명
 구글, 네이버, 카카오 번역기를 비교하면서 사용할 수 있는 앱입니다.
 #### 스크린샷
-<img src="https://lh3.googleusercontent.com/OtIFO-KKim96pYSU6JOrtObXDO76KPb3eVnu_rdaDpi9LvJf0guevIh6Em439tuHKg=w1920-h888-rw" alt="아이콘" width="200" />
+<div dir='ltr'>
+    <img src="https://lh3.googleusercontent.com/3Cp_7smlgmNEjr34Uj9g-SLV6YOHGX338CXyMO08xucEVjapNb_33ghhwTZHjmwlboE=w720-h310-rw" alt="아이콘" width="200" />
+    <img src="https://lh3.googleusercontent.com/OtIFO-KKim96pYSU6JOrtObXDO76KPb3eVnu_rdaDpi9LvJf0guevIh6Em439tuHKg=w1920-h888-rw" alt="아이콘" width="200" />
+    <img src="https://lh3.googleusercontent.com/X0CVgGB5x61EhEb0nB_0TNlhuftLJ-1tjvNT04_VRQYdnMRFVjEhfPcpRRKIFlp9JFo=w720-h310-rw" alt="아이콘" width="200" />
+</div>
+
 
 #### 링크
 - [플레이스토어](https://play.google.com/store/apps/details?id=com.koreanthinker.translators) : 200다운
@@ -112,7 +124,7 @@
 - react-native (100% functional componen)
 - fetch (rest api로 통신)
 #### 프로젝트 설명
-expo 없이 react-native사용하기, material ui 사용하기를 중점적으로 두고 개발한  사이드 프로젝트 입니다.
+expo 없이 react-native사용하기, material ui 사용하기를 중점적으로 두고 개발한 사이드 프로젝트 입니다.
 
 ## AR데모
 <img src="https://lh3.googleusercontent.com/ZciSNhzwp-sgFlTMRPiza-fx81lryLBkL98aHoYE10VlSISNYRQrn33qVna1PHno7sY=s180-rw" alt="아이콘" width="100" />
@@ -140,8 +152,30 @@ expo 없이 react-native사용하기, material ui 사용하기를 중점적으�
 - AR foundation
 #### 프로젝트 설명
 전에 외주를 맡으면서 공부했던 기술을 정리한 프로젝트입니다.
-#### 후기
-간단하게 올린 코드였지만 무려 깃헙 스타를 2개나 받으면서 **프로그래머**로서의 굉장한 자신감을 얻게 해준 프로젝트였습니다. 
 
 
 ## RN파이어베이스풀스택
+<img src="https://lh3.googleusercontent.com/RcmdjwaRI4liX8GFjtDmJnN7txNo-cvZ-2IzT-pLdi4IoIow-rYIjGniJelzU5wXLSo" alt="아이콘" width="100" />
+
+#### 앱 설명
+간단한 SNS기능이 있는 데모 앱입니다.
+#### 스크린샷
+<div dir='ltr'>
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/rn-firebase-screenshot1.png" alt="스크린샷" width="200" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/rn-firebase-screenshot2.png" alt="스크린샷" width="200" />
+</div>
+
+#### 링크
+- [플레이스토어](https://play.google.com/store/apps/details?id=com.koreanthinker.rnfirebasefullstack)
+- [소스코드](https://github.com/KoreanThinker/RN-firebase-fullstack)
+
+#### 개발 기간
+2019년 2월 ~ 2019년 2월
+#### 내 역할
+- 프론트엔드
+- 백엔드
+#### 스택
+- react-native
+- firebase
+#### 프로젝트 설명
+react-native와 firebase로 만든 풀스택 애플리케이션이고 서버 통신이 가능한 프로젝트 입니다.
