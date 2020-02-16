@@ -16,6 +16,7 @@
 - expo
 - redux
 - unity 3d
+- python
 
 
 # 목차
@@ -26,6 +27,8 @@
 #### 데모
 - [AR데모](#AR데모) : AR 이미지트래킹
 - [RN파이어베이스풀스택](#RN파이어베이스풀스택) : 기본적인 서버통신 앱
+#### 기타
+- [보정고이벤트](#보정고이벤트) : 보정고등학교 이벤트 웹사이트
 
 # 띠용 
 <img src="https://lh3.googleusercontent.com/PBcDKZTqgz86VjT6FRzN_gBc_VIYDDDlVkTgxlc_tcUuIoT2MY-GxG2tDpy3n-VfZMGk=s180-rw" alt="아이콘" width="100" />
@@ -179,3 +182,36 @@ expo 없이 react-native사용하기, material ui 사용하기를 중점적으�
 - firebase
 #### 프로젝트 설명
 react-native와 firebase로 만든 풀스택 애플리케이션이고 서버 통신이 가능한 프로젝트 입니다.
+
+
+## 보정고이벤트
+
+#### 설명
+보정고등학교 학생들을 대상으로한 설문조사 사이트
+#### 포스터
+<div dir='ltr'>
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent1.png" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent2.png" alt="스크린샷" width="160" />
+</div>
+
+#### 링크
+- [웹 링크 1](https://bjevent.shop)
+- [웹 링크 2](https://bjevent-823e6.firebaseapp.com/)
+- [인스타그램](https://www.instagram.com/bojeong_event)
+- [소스코드](https://github.com/KoreanThinker/bjevent)
+
+#### 진행 기간
+2019년 12월 ~ 2019년 1월
+#### 내 역할
+- 기획
+- 웹 프로그래밍
+- 통계 시각화
+- 포스터 제작
+#### 스택
+- react
+- firebase
+- python (통계화)
+    - matplotlib
+    - numpy
+#### 프로젝트 설명
+보정고 학생을 대상으로 설문조사를 진행하고 통계까지 내본 프로젝트입니다.
