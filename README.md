@@ -10,12 +10,13 @@
 - typescript
 - apollo
 - graphql
-- firebase
+- hasura
 #### 사용해봤던 스택
 - react
 - expo
 - redux
 - unity 3d
+- firebase
 - python
 
 
