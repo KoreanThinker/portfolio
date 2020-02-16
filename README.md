@@ -190,8 +190,8 @@ react-native와 firebase로 만든 풀스택 애플리케이션이고 서버 통
 보정고등학교 학생들을 대상으로한 설문조사 사이트
 #### 포스터
 <div dir='ltr'>
-    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent1.png" alt="스크린샷" width="160" />
-    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent2.png" alt="스크린샷" width="160" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent1.png" alt="스크린샷" width="400" />
+    <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/bjevent2.png" alt="스크린샷" width="240" />
 </div>
 
 #### 링크
