@@ -4,13 +4,13 @@
 
 # 목차
 - [한줄소개](#남궁현)
-- [스택](#스택)
+- [개발스택](#개발스택)
 - [포트폴리오](#포트폴리오)
 
 # 한줄소개
 14살 때부터 C언어를 시작하였고 이후 JAVA, C#, JS를 공부했습니다. "C언어도 언어다"라는 마음가짐으로 빠른코드 보다도 읽기 쉬운 코드를 추구 하고 있는 프론트엔드 개발자 입니다.
 
-# 스택
+# 개발스택
 #### 문서안보고 작성할 수 있는 수준
 <div dir='ltr'>
     <a href="https://reactnative.dev/" >
@@ -82,7 +82,7 @@
     <a href="./2019/AR데모.md" >
         <img src="https://lh3.googleusercontent.com/ZciSNhzwp-sgFlTMRPiza-fx81lryLBkL98aHoYE10VlSISNYRQrn33qVna1PHno7sY=s180-rw" alt="아이콘" width="70" />
     </a>
-    <a href="./2020/Rn파이어베이스풀스택.md" >
+    <a href="./2020/RN파이어베이스풀스택.md" >
         <img src="https://lh3.googleusercontent.com/RcmdjwaRI4liX8GFjtDmJnN7txNo-cvZ-2IzT-pLdi4IoIow-rYIjGniJelzU5wXLSo" alt="아이콘" width="70" />
     </a>
     <a href="./2020/RNGraphQl풀스택.md" >
