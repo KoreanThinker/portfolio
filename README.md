@@ -24,7 +24,7 @@
 #### 개발 경험 있는 스택
 <div dir='ltr'>
     <a href="https://unity.com/" >
-        <img src="https://lh3.googleusercontent.com/proxy/vsQse461k2dk1ZMWl03y6W89I-slCu421pMQSeW3HSHyxD6pOJrwoJkctWCXgig0_9Mi2ohw690t3mr6NI08am927ICOQHuyK7H4hkNn_g4PkjXGN30o39EP" alt="unity3d" height="70" />
+        <img src="https://lh3.googleusercontent.com/proxy/mXkcGTo--dDZdkzS1B8Pv7EkH4qRoKdGc_Z39aKiHfhpSoKmjk7Ef6W-gkR3HXlhQjHtaudU1KxRnwIJwfyVsymRcIY6gMDRfFIPKQfJgXhIOg" alt="unity3d" height="70" />
     </a>
     <a href="https://expo.io/" >
         <img src="https://images.velog.io/post-images/changhoi/e3613a50-9172-11e9-80e4-2d6e23adb350/expo.png" alt="expo" height="70" />
