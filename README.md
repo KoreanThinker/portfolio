@@ -13,10 +13,10 @@
 # 개발스택
 #### 문서안보고 작성할 수 있는 수준
 <div dir='ltr'>
-    <a href="https://reactnative.dev/" >
+    <a href="./ToolLevel/react-native" >
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2KKZPNYCJ64g4splI4ahUNLDtEFjcb8AvBCurCE03m_A6rQ37" alt="RN" height="70" />
     </a>
-    <a href="https://www.typescriptlang.org/" >
+    <a href="./ToolLevel/typescript" >
         <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" alt="typescript" height="70" />
     </a>
 </div>
@@ -24,7 +24,7 @@
 #### 개발 경험 있는 스택
 <div dir='ltr'>
     <a href="https://unity.com/" >
-        <img src="https://lh3.googleusercontent.com/proxy/mXkcGTo--dDZdkzS1B8Pv7EkH4qRoKdGc_Z39aKiHfhpSoKmjk7Ef6W-gkR3HXlhQjHtaudU1KxRnwIJwfyVsymRcIY6gMDRfFIPKQfJgXhIOg" alt="unity3d" height="70" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaQ5-tYReAEjwyij2zktHVHnA06a9uCvrIgP8DjMgMD5IUXL_V" alt="unity3d" height="70" />
     </a>
     <a href="https://expo.io/" >
         <img src="https://images.velog.io/post-images/changhoi/e3613a50-9172-11e9-80e4-2d6e23adb350/expo.png" alt="expo" height="70" />

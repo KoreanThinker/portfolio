@@ -2,7 +2,7 @@
 <img src="https://lh3.googleusercontent.com/mgKay7m5ZbHIWwbqoQKJWjcFSI2N2OfAPjvNuOKES8AdObJe905nevm4QIWqFVSg-e0" alt="아이콘" width="100" />
 
 #### 프로젝트 설명
-유튜브, 인스타그램등의 앱의 UI를 따라한앱
+유튜브, 인스타그램등의 앱의 UI를 클론한 앱
 #### 스크린샷
 <div dir='ltr'>
     <img src="https://github.com/KoreanThinker/portfolio/blob/master/Images/rn-graphql-screenshot1.png" alt="스크린샷" width="200" />

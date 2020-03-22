@@ -21,5 +21,6 @@
 #### 스택
 - react-native
 - firebase
+- typescript
 #### 프로젝트 설명
 react-native와 firebase로 만든 풀스택 애플리케이션이고 서버 통신이 가능한 프로젝트다.
