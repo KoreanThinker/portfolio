@@ -20,7 +20,12 @@
 - 백엔드
 #### 스택
 - react-native
+- redux
 - firebase
+    - functions
+    - firestore
+    - storage
+    - admob
 - typescript
 #### 프로젝트 설명
-react-native와 firebase로 만든 풀스택 애플리케이션이고 서버 통신이 가능한 프로젝트다.
+react-native와 파이어베이스 연동, 파이어베이스 functions를 활용한 백엔드 개발을 목표로 시작했고 백엔드에 관해서 많은 것들을 배웠다.
