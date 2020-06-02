@@ -8,7 +8,7 @@
 - [포트폴리오](#포트폴리오)
 
 # 한줄소개
-14살 때부터 C언어를 시작하였고 이후 JAVA, C#, JS를 공부했습니다. "C언어도 언어다"라는 마음가짐으로 빠른코드 보다도 읽기 쉬운 코드를 추구 하고 있는 프론트엔드 개발자 입니다.
+14살 때부터 C언어를 시작하였고 이후 JAVA, C#, JS를 공부했습니다. "C언어도 언어다"라는 마인드로 빠른코드 보다도 읽기 쉬운 코드를 추구 하고 있는 프론트엔드 개발자 입니다.
 
 # 개발스택 (클릭시 추가설명)
 #### 문서안보고 작성할 수 있는 수준
@@ -53,7 +53,7 @@
     <img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FZh2Mo%2Fbtqu62OtsS2%2FKFo9gK93AW66DEGtEe3pS1%2Fimg.png" alt="htmlcss" height="70" />
 </div>
 
-#### 알고리즘 문제 풀수있는 언어들
+#### 알고리즘 문제 정도 풀 수 있는 언어들
 <div dir='ltr'>
     <a href="./ToolLevel/python.md" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" height="70" />
@@ -76,6 +76,12 @@
     <a href="./2019/3가지번역비교하다.md" >
         <img src="https://lh3.googleusercontent.com/pctpfs3Tc7tj09Cs2aQkXTLawBmy97kI1R1dOuxvRzua-S6slk3kaxgN-HsFDv3nFSk=s180-rw" alt="아이콘" width="70" />
     </a>
+    <a href="./2020/수익률계산기.md" >
+        <img src="https://lh3.googleusercontent.com/RpArb1IqE-1DS5prQ-XnO1qJaXy2w-AEoepYIYy3Pc_4S0eWg3_aUgx9VyOy2Fn9juY=s180-rw" alt="아이콘" width="70" />
+    </a>
+    <a href="./2020/빌보드플레이어.md" >
+        <img src="https://lh3.googleusercontent.com/2-HR7UEyvLa2jQQBBHLfBm8dVuE27b8ZP6m9xmTnep0tRZfRVkzd3_I8NyV9BOySgQ=s180-rw" alt="아이콘" width="70" />
+    </a>
     <a href="./2019/AR데모.md" >
         <img src="https://lh3.googleusercontent.com/ZciSNhzwp-sgFlTMRPiza-fx81lryLBkL98aHoYE10VlSISNYRQrn33qVna1PHno7sY=s180-rw" alt="아이콘" width="70" />
     </a>
@@ -87,12 +93,14 @@
     </a>
 </div>
 
-
+#
 ### 종류별
 #### 서비스
 - [띠용](./2018/띠용.md) : 모바일 인디게임
 - [스크랩](./2019/스크랩.md) : 학교 SNS 애플리케이션
 - [3가지번역비교하다](./2019/3가지번역비교하다.md) : 번역기 묶음 애플리케이션
+- [수익률계산기](./2020/수익률계산기.md) : 주식 수익률 계산기
+- [빌보드플레이어](./2020/빌보드플레이어.md) : 빌보드 Hot 100 차트 스트리밍 앱
 #### 데모
 - [AR데모](./2019/AR데모.md) : AR 이미지트래킹
 - [RN파이어베이스풀스택](./2020/RN파이어베이스풀스택.md) : 기본적인 서버통신 앱
@@ -112,3 +120,5 @@
 #### 2020
 - [RN파이어베이스풀스택](./2020/RN파이어베이스풀스택.md) : 기본적인 서버통신 앱
 - [RNGraphQl풀스택](./2020/RNGraphQl풀스택.md) : graphql 통신 앱
+- [수익률계산기](./2020/수익률계산기.md) : 주식 수익률 계산기
+- [빌보드플레이어](./2020/빌보드플레이어.md) : 빌보드 Hot 100 차트 스트리밍 앱

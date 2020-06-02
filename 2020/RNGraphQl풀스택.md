@@ -26,5 +26,5 @@
 - graphql
 - hasura
 - heroku
-#### 프로젝트 설명
- react-native로 graphql을 사용하여 가장 현대적인 앱 개발을 하고 싶었고 typescript를 잘 사용하여 완성도 높은 코드 작성 한것 같다.
+#### 후기
+ react-native로 graphql을 사용하여 가장 현대적인 앱 개발을 하고 싶었고 typescript를 잘 사용하여 완성도 높은 코드 작성 했다.

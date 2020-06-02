@@ -21,5 +21,5 @@ reanimated를 활용한 animation들을 구연한 애플리케이션
     - gesture-handler
 - expo
 - typescript
-#### 프로젝트 설명
-react-native로 창의적인 UI를 구연해보고 싶어서 시작했고 reanimated, gesture-handler같은 라이브러리들을 익힐수 있었다.
+#### 후기
+react-native로 창의적인 UI를 구연해보고 싶어서 시작했고 reanimated, gesture-handler같은 라이브러리들을 익혔다.
