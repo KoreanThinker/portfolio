@@ -1,6 +1,6 @@
 # Amazon Web Service
 
-## 수준 ★☆☆☆☆
+## 수준
 - 인강 보면서 EC2에 backend, frontend 서버 배포해본 경험 있음
 - 실무 경험 없음
 

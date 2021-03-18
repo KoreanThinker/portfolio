@@ -1,6 +1,6 @@
 # Apollo Client
 
-## 수준 ★★★★☆
+## 수준
 - Graphql에 대한 이해도가 충분함
 - Cache를 능수능란하게 다룸
 

@@ -1,6 +1,6 @@
 # Google Cloud Platform
 
-## 수준 ★★★☆☆
+## 수준
 - GCP를 통해 인스턴스에 backend, frontend 서버를 배포한 경험이 있음
 - 로드 벨런싱 경험 있음
 - Firebase의 대부분 기능 사용한 경험이 있음

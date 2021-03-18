@@ -1,7 +1,7 @@
 # React-Graphql (개인)
 
 ## 앱 설명
-> react, react native, graphql을 풀스택으로 다루는 개발 템플릿
+> react, react native, nodejs, graphql을 풀스택으로 다루는 개발 템플릿
 
 #
 
