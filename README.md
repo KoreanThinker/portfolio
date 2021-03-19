@@ -79,7 +79,7 @@
 - [AR데모](./2019/AR데모.md) : AR 이미지트래킹
 - [RN파이어베이스풀스택](./2020/RN파이어베이스풀스택.md) : 기본적인 서버통신 앱
 - [RNGraphQl풀스택](./2020/RNGraphQl풀스택.md) : graphql 통신 앱
-- [React-Graphql](./2021/react-graphql.md) : 웹, 앱, 서버 풀스텍 템플릿
+- [React-Graphql](./2020/react-graphql.md) : 웹, 앱, 서버 풀스텍 템플릿
 
 #
 ## 연도별
