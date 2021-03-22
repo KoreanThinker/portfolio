@@ -16,7 +16,7 @@
 <br>
 
 # 한줄소개
-> 생각하기를 좋아하며 생각한 만큼 표현하기 위해 개발을 하는 21세기의 디지털 발명가입니다
+> 생각하기를 좋아하며 생각한 만큼 표현하기 위해 개발을 하는 디지털 발명가입니다
 
 <br>
 <br>
@@ -39,7 +39,7 @@
 - [GCP](./Skills/gcp.md)
 - [AWS](./Skills/aws.md)
 ## *Etc*
-- [Adobe PS, AI, XD]()
+- [Adobe PS, AI, XD](./Skills/adobe-tools.md)
 
 <br>
 <br>
